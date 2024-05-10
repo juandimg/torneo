@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "663d7e6e1469f008866697b7"
+  },
+  "encuentro": "Atletico Nacional VS Independiente Santa Fe",
+  "estadio": "Atanasio Girardot (Medellin)",
+  "fecha_encuentro": "10/05/2024",
+  "central": "DIEGO RUIZ – META",
+  "asistente_1": "CRISTIAN AGUIRRE – CALDAS",
+  "asistente_2": "JORGE SANNA – NORTE",
+  "cuarto_arbtitro": " IVÁN BALLESTA – CUNDINAMARCA"
+},
+{
+  "_id": {
+    "$oid": "663d7e6e1469f008866697b8"
+  },
+  "encuentro": "Once Caldas VS Millonarios FC",
+  "estadio": "Palogrande (Manizales)",
+  "fecha_encuentro": "11/05/2024",
+  "central": "NOLBERTO ARARAT – VALLE",
+  "asistente_1": "DAVID FUENTES – CESAR",
+  "asistente_2": "WILLIAM CRAWFORD – CÓRDOBA",
+  "cuarto_arbtitro": "JUAN ROLDÁN – TOLIMA"
+},
+{
+  "_id": {
+    "$oid": "663d7e6e1469f008866697b9"
+  },
+  "encuentro": "Atletico Junior VS Independiente Medellin",
+  "estadio": "Metropolitano (Barranquilla)",
+  "fecha_encuentro": "10/05/2024",
+  "central": "WÍLMAR ROLDÁN – ANTIOQUIA",
+  "asistente_1": "MARY BLANCO – BOYACÁ",
+  "asistente_2": "JONATHAN BALLESTEROS – SANTANDER",
+  "cuarto_arbtitro": "DIEGO ULLOA – VALLE"
+},
+{
+  "_id": {
+    "$oid": "663d7e6e1469f008866697ba"
+  },
+  "encuentro": "Deportivo Cali VS America de Cali",
+  "estadio": "Pascual Guerrero (Cali)",
+  "fecha_encuentro": "11/05/2024",
+  "central": "JORGE DUARTE – SANTANDER",
+  "asistente_1": "DIONISIO RUIZ – CÓRDOBA",
+  "asistente_2": "YAHIR PADILLA – CUNDINAMARCA",
+  "cuarto_arbtitro": "JUAN GARCÍA – ANTIOQUIA"
+}]

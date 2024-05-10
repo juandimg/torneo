@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "663d80791469f008866697c1"
+  },
+  "nombre_jugador": "Jefferson Andrés Duque Montoya",
+  "numero_goles": "12",
+  "equipo": "Atletico Nacional",
+  "edad": "37"
+},
+{
+  "_id": {
+    "$oid": "663d80791469f008866697c2"
+  },
+  "nombre_jugador": "Carlos Arturo Bacca",
+  "numero_goles": "11",
+  "equipo": "Atletico Junior",
+  "edad": "38"
+},
+{
+  "_id": {
+    "$oid": "663d80791469f008866697c3"
+  },
+  "nombre_jugador": "Dayro Mauricio Moreno Galindo",
+  "numero_goles": "11",
+  "equipo": "Once Caldas",
+  "edad": "39"
+},
+{
+  "_id": {
+    "$oid": "663d80791469f008866697c4"
+  },
+  "nombre_jugador": "Brayan León Muñiz",
+  "numero_goles": "9",
+  "equipo": "Independiente Medellin",
+  "edad": "24"
+},
+{
+  "_id": {
+    "$oid": "663d80791469f008866697c5"
+  },
+  "nombre_jugador": "Leonardo Fabio Castro Loaiza",
+  "numero_goles": "8",
+  "equipo": "Millonarios FC",
+  "edad": "32"
+},
+{
+  "_id": {
+    "$oid": "663d80791469f008866697c6"
+  },
+  "nombre_jugador": "Edwin Andrés Cardona Bedoya",
+  "numero_goles": "6",
+  "equipo": "America de Cali",
+  "edad": "32"
+}]

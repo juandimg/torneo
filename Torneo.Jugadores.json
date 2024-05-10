@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "663d90e71469f008866697d5"
+  },
+  "nombre_jugador": "Juan Felipe Aguirre",
+  "edad": "27",
+  "posicion": "Defensa Central",
+  "equipo": "Nacional",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663d90e71469f008866697d6"
+  },
+  "nombre_jugador": "Harlen Castillo",
+  "edad": "30",
+  "posicion": "Portero",
+  "equipo": "Nacional",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663d90e71469f008866697d7"
+  },
+  "nombre_jugador": "Andrian Ramos",
+  "edad": "38",
+  "posicion": "Delantero Centro",
+  "equipo": "America de Cali",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663d90e71469f008866697d8"
+  },
+  "nombre_jugador": "Daniel Bocanegra",
+  "edad": "37",
+  "posicion": "Defensa Central",
+  "equipo": "America de Cali",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663d90e71469f008866697d9"
+  },
+  "nombre_jugador": "Jose Aja",
+  "edad": "31",
+  "posicion": "Defensa Central",
+  "equipo": "Independiente Medellin",
+  "nacionalidad": "Uruguay"
+},
+{
+  "_id": {
+    "$oid": "663d90e71469f008866697da"
+  },
+  "nombre_jugador": "Yairo Moreno",
+  "edad": "29",
+  "posicion": "Lateral Izquierdo",
+  "equipo": "Independiente Medellin",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663d90e71469f008866697db"
+  },
+  "nombre_jugador": "Alvaro Montero",
+  "edad": "29",
+  "posicion": "Portero",
+  "equipo": "Millonarios FC",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663d90e71469f008866697dc"
+  },
+  "nombre_jugador": "Juan Pablo Vargas",
+  "edad": "28",
+  "posicion": "Defensa Central",
+  "equipo": "Millonarios FC",
+  "nacionalidad": "Costa Rica"
+},
+{
+  "_id": {
+    "$oid": "663d90e71469f008866697dd"
+  },
+  "nombre_jugador": "Victor Cantillo",
+  "edad": "30",
+  "posicion": "Pivote",
+  "equipo": "Atletico Junior",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663d90e71469f008866697de"
+  },
+  "nombre_jugador": "Marco Perez",
+  "edad": "33",
+  "posicion": "Delantero Centro",
+  "equipo": "Atletico Junior",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663d90e71469f008866697df"
+  },
+  "nombre_jugador": "Yonatan Murillo",
+  "edad": "31",
+  "posicion": "Defensa Central",
+  "equipo": "Once Caldas",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663d90e71469f008866697e0"
+  },
+  "nombre_jugador": "Mateo Garcia",
+  "edad": "25",
+  "posicion": "Medio Centro",
+  "equipo": "Once Caldas",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663d90e71469f008866697e1"
+  },
+  "nombre_jugador": "Jonathan Marulanda",
+  "edad": "28",
+  "posicion": "Lateral Derecho",
+  "equipo": "Deportivo Cali",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663d90e71469f008866697e2"
+  },
+  "nombre_jugador": "Jarlan Barrera",
+  "edad": "28",
+  "posicion": "Medio Centro Ofensivo",
+  "equipo": "Deportivo Cali",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663d90e71469f008866697e3"
+  },
+  "nombre_jugador": "Elvis Perlaza",
+  "edad": "35",
+  "posicion": "Lateral Derecho",
+  "equipo": "Santa Fe",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "663d90e71469f008866697e4"
+  },
+  "nombre_jugador": "Hugo Rodallega",
+  "edad": "38",
+  "posicion": "Delantero Centro",
+  "equipo": "Santa Fe",
+  "nacionalidad": "Colombia"
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "663d8bbc1469f008866697cc"
+  },
+  "nombre_estadio": "Atanasio Girardot",
+  "fecha_fundacion": "18 de Marzo del 1953",
+  "ciudad": "Medellin",
+  "capacidad": "46.288",
+  "equipos_locales": "Atletico Nacional e Independiente Medellin"
+},
+{
+  "_id": {
+    "$oid": "663d8bbc1469f008866697cd"
+  },
+  "nombre_estadio": "Campin",
+  "fecha_fundacion": "10 de Agosto del 1938",
+  "ciudad": "Bogota",
+  "capacidad": "36.343",
+  "equipos_locales": "Independiente Santa Fe y Millonarios FC"
+},
+{
+  "_id": {
+    "$oid": "663d8bbc1469f008866697ce"
+  },
+  "nombre_estadio": "Palogrande",
+  "fecha_fundacion": "30 de Julio de 1994",
+  "ciudad": "Manizales",
+  "capacidad": "36.000",
+  "equipos_locales": "Once Caldas"
+},
+{
+  "_id": {
+    "$oid": "663d8bbc1469f008866697cf"
+  },
+  "nombre_estadio": "Pascual Guerrero",
+  "fecha_fundacion": "20 de Julio de 1937",
+  "ciudad": "Cali",
+  "capacidad": "37.899",
+  "equipos_locales": "America de Cali"
+},
+{
+  "_id": {
+    "$oid": "663d8bbc1469f008866697d0"
+  },
+  "nombre_estadio": "Metropolitano",
+  "fecha_fundacion": "11 de Mayo de 1986",
+  "ciudad": "Barranquilla",
+  "capacidad": "49.000",
+  "equipos_locales": "Atletico Junior"
+}]

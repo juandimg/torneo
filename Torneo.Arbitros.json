@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "663d77fe1469f008866697a1"
+  },
+  "central": "DIEGO RUIZ – META",
+  "asistente_1": "CRISTIAN AGUIRRE – CALDAS",
+  "asistente_2": "JORGE SANNA – NORTE",
+  "cuarto_arbtitro": " IVÁN BALLESTA – CUNDINAMARCA"
+},
+{
+  "_id": {
+    "$oid": "663d77fe1469f008866697a2"
+  },
+  "central": "NOLBERTO ARARAT – VALLE",
+  "asistente_1": "DAVID FUENTES – CESAR",
+  "asistente_2": "WILLIAM CRAWFORD – CÓRDOBA",
+  "cuarto_arbtitro": "JUAN ROLDÁN – TOLIMA"
+},
+{
+  "_id": {
+    "$oid": "663d77fe1469f008866697a3"
+  },
+  "central": "WÍLMAR ROLDÁN – ANTIOQUIA",
+  "asistente_1": "MARY BLANCO – BOYACÁ",
+  "asistente_2": "JONATHAN BALLESTEROS – SANTANDER",
+  "cuarto_arbtitro": "DIEGO ULLOA – VALLE"
+},
+{
+  "_id": {
+    "$oid": "663d77fe1469f008866697a4"
+  },
+  "central": "JHON HINESTROZA – CHOCÓ",
+  "asistente_1": "VÍCTOR WILCHEZ – BOYACÁ",
+  "asistente_2": "CAMILO PORTELA – CUNDINAMARCA",
+  "cuarto_arbtitro": "JHONATAN AGUIRRE – CALDAS"
+},
+{
+  "_id": {
+    "$oid": "663d77fe1469f008866697a5"
+  },
+  "central": "CARLOS BETANCUR – VALLE",
+  "asistente_1": "JAVIER PATIÑO – META",
+  "asistente_2": "JAVIER ZEMANATE – HUILA",
+  "cuarto_arbtitro": "JENNY TORRES – CUNDINAMARCA"
+},
+{
+  "_id": {
+    "$oid": "663d77fe1469f008866697a6"
+  },
+  "central": "JORGE DUARTE – SANTANDER",
+  "asistente_1": "DIONISIO RUIZ – CÓRDOBA",
+  "asistente_2": "YAHIR PADILLA – CUNDINAMARCA",
+  "cuarto_arbtitro": "JUAN GARCÍA – ANTIOQUIA"
+},
+{
+  "_id": {
+    "$oid": "663d77fe1469f008866697a7"
+  },
+  "central": "DAVID ESPINOSA – ANTIOQUIA",
+  "asistente_1": "MIGUEL ROLDÁN – ANTIOQUIA",
+  "asistente_2": "JHON AGUILAR – RISARALDA",
+  "cuarto_arbtitro": "HÉCTOR RIVERA – NARIÑO"
+},
+{
+  "_id": {
+    "$oid": "663d77fe1469f008866697a8"
+  },
+  "central": "EDILSON ARIZA – SANTANDER",
+  "asistente_1": "RICHARD ORTIZ – QUINDÍO",
+  "asistente_2": "MARIO TARACHE – CASANARE",
+  "cuarto_arbtitro": "ÁLVARO MELÉNDEZ – MAGDALENA"
+}]

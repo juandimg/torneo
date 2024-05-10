@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "663d73c11469f00886669795"
+  },
+  "nombre_club": "Atletico Nacional",
+  "ciudad": "Medellin",
+  "numero_titulos": "33",
+  "fecha_fundacion": "30 de abril de 1947"
+},
+{
+  "_id": {
+    "$oid": "663d73c11469f00886669796"
+  },
+  "nombre_club": "Millonarios FC",
+  "ciudad": "Bogota",
+  "numero_titulos": "23",
+  "fecha_fundacion": "18 de junio de 1946"
+},
+{
+  "_id": {
+    "$oid": "663d73c11469f00886669797"
+  },
+  "nombre_club": "Santa Fe",
+  "ciudad": "Bogota",
+  "numero_titulos": "17",
+  "fecha_fundacion": "28 de febrero de 1941"
+},
+{
+  "_id": {
+    "$oid": "663d73c11469f00886669798"
+  },
+  "nombre_club": "Independiente Medellin",
+  "ciudad": "Medellin",
+  "numero_titulos": "9",
+  "fecha_fundacion": "4 de noviembre de 1913"
+},
+{
+  "_id": {
+    "$oid": "663d73c11469f00886669799"
+  },
+  "nombre_club": "Once Caldas",
+  "ciudad": "Manizales",
+  "numero_titulos": "5",
+  "fecha_fundacion": "15 de enero de 1961"
+},
+{
+  "_id": {
+    "$oid": "663d73c11469f0088666979b"
+  },
+  "nombre_club": "Atletico Junior",
+  "ciudad": "Barranquilla",
+  "numero_titulos": "14",
+  "fecha_fundacion": "18 de diciembre de 1954"
+},
+{
+  "_id": {
+    "$oid": "663d73c11469f0088666979c"
+  },
+  "nombre_club": "America de Cali",
+  "ciudad": "Cali",
+  "numero_titulos": "18",
+  "fecha_fundacion": "13 de febreo de 1927"
+},
+{
+  "_id": {
+    "$oid": "663d73c11469f0088666979d"
+  },
+  "nombre_club": "Deportivo Cali",
+  "ciudad": "Cali",
+  "numero_titulos": "12",
+  "fecha_fundacion": "18 de mayo de 1962"
+}]
